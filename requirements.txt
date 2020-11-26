@@ -2,6 +2,3 @@ tensorflow
 streamlit
 numpy
 matplotlib
-imageio
-ipython
-Pillow
